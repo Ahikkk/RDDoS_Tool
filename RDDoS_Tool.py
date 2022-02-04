@@ -7,7 +7,7 @@ or copy at http://opensource.org/licenses/MIT)
 
 # Import.
 from   platform import system
-from   tqdm.auto import tqdm
+
 import os
 import time
 import random
